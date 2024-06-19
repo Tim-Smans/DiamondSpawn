@@ -1,0 +1,4 @@
+name: DiamondChallenge
+version: '${version}'
+main: me.timdev.diamondchallenge.DiamondChallenge
+api-version: '1.20'
